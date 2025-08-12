@@ -1,1 +1,1 @@
-# moth-quantum.github.io
+For the MOTH website, click [here](https://mothquantum.com/).
